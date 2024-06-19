@@ -1,3 +1,6 @@
+# sphinx
+_build
+
 # Logs
 logs
 *.log
